@@ -50,7 +50,8 @@ Finally, we did a little exercise on the data types.
 
 ### Cardinalities
 
-* They describe the relationship more precisely. There are four forms: 1:1 1:N N:1 M:N
+* Cardinality describes the relationship more precisely.<br>
+  There are four forms: 1:1 1:N N:1 M:N
 * They must always be observed.
 
 Finally, we did an exercise on relationship types and cardinalities
