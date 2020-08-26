@@ -7,14 +7,15 @@
 Today it was the turn of the databases. We discussed the DBMS (Database Management System) and the basic structure.
 Then we looked at the ERM (Entity Relationship Model) which describes objects and the relationships between them.
 
--An entity is an object in which information is to be stored.
--Relationship describes the associations between the entities.
--Attributes are the properties of the entities and their relationships.
+-An entity is an object in which information is to be stored.<br>
+-Relationship describes the associations between the entities.<br>
+-Attributes are the properties of the entities and their relationships.<br>
 
 A frequently used ER model is the Chen notation which graphically shows an overview of all entities and their
 relation.
 
-Values ​​are described by primitive data types They can be created directly.
+Values ​​are described by primitive data types.<br>
+They can be created directly.
 
 ### Examples of data types
 
@@ -62,12 +63,12 @@ Finally, we did an exercise on relationship types and cardinalities
 * ACCESS CONTROL
 * TRANSACTIONS
 * SYNCHRONIZATION
-* DATA BACKUP
+* DATA BACKUP<br>
 were also terms that we took a closer look at.
 
 The parts into which a transaction is divided:
-* 1. Direct debit
-* 2. Credit
-* 3. Confirmation 
+1. Direct debit
+2. Credit
+3. Confirmation 
 
 Finally, we modeled Coders Bay on a sheet of paper in an ERM. A higher technical school was shown as an exercise in class.
