@@ -78,26 +78,27 @@ Finally, we modeled Coders Bay on a sheet of paper in an ERM. A higher technical
 Today it was the turn of software development in Java.
 
 Apart from the recurring problems with my device I managed to close my three-liner after an hour
-commit. Unfortunately, there is still no talk of pushing.
+commiting. Unfortunately, there is still no talk of pushing.
 
 I will try to get further into the program but there is still no chance for me.
 At the moment, a proper code creation is not possible at the time, because I only use "try and fail" in the program. 
 While I am searching for a menu or a button, after ten minutes I forget what I am doing actually wanted to do.
-Unfortunately there was no familiarization with the IDE.
+Unfortunately there was absolutely no familiarization with the IDE.
 
 Since in my opinion the coaches don't have the time to give an introduction in the respective development environment. 
-You err step by step in a direction far from developing.
+"You err step by step in a direction far from developing".
 
 I feel like I am alone with problems that I cannot solve.
 
 Then Trello stripped down and started IntelliJ. Then we started right away with a few exercises.
 
 After a few lines I tried to execute my code to verify. Unfortunately this failed because I was writing the code in the wrong project. 
-I found out all of this an hour after we got "incorporated" to IntelliJ.
+How can i know this?? I found out all of this an hour after we got "incorporated" to IntelliJ.
 
-All in all. In the possible hours available I have brought almost nothing further. I didn't get much of programming,
-I was more or less concerned with troubleshooting.
+All in all.<br>
+In the possible hours available I have brought almost nothing further. I didn't get much of programming,
+I was more or less concerned with troubleshooting.<br>
 Fact! Another day less!
 I was really looking forward to Java because I already had experience with it.
 
-This is one of the worst days on Coders Bay!
+This was one of the worst days on Coders Bay!
