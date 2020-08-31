@@ -102,3 +102,22 @@ Fact! Another day less!
 I was really looking forward to Java because I already had experience with it.
 
 This was one of the worst days on Coders Bay!
+
+
+## Monday, August 31th, 2020
+
+Jaaaavaaaa :)
+
+Java basics implemented in IntelliJ. The day went well so far. Unfortunately I have to
+realize that the basics are not as good as I thought.
+
+I had to ask my trainer a few times because I got stuck.
+For example, today we should be programming the game Hangman.
+I had my difficulties there.
+I am currently still not finished with my work.
+
+It is now 10 o'clock in the evening and my eyes are closing.
+I didn't learn very much in class today, but I learned programming
+about try and fail. That was funny.
+
+
