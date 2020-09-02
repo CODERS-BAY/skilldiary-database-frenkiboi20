@@ -104,6 +104,7 @@ I was really looking forward to Java because I already had experience with it.
 This was one of the worst days on Coders Bay!
 
 
+
 ## Monday, August 31th, 2020
 
 Jaaaavaaaa :)
@@ -120,4 +121,21 @@ It is now 10 o'clock in the evening and my eyes are closing.
 I didn't learn very much in class today, but I learned programming
 about try and fail. That was funny.
 
+
+
+# Wednesday, September 2nd, 2020
+
+And again a new turn of databases :)<br>
+
+To my amazement, this Wednesday went smoothly.<br>
+The fear of the ER models was unfounded until now.<br>
+Two of my colleagues drew up their versions of the homework/school assignment, which consisted of modeling a library/school system, on the flipchart.
+
+Since our networkers had a final presentation today, which lasted very, very long, the theory input came
+a little too short. We wanted to model a hotel together with the trainer. Unfortunately we didn't get around to it.
+
+My main work today was actually only to refine my homework project (library).<br>
+The software from "Creatly", with which you can design your models online, helped me a lot.
+
+P.S: I hope to get more insight into the and structure of DBMS soon.
 
