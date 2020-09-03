@@ -123,7 +123,7 @@ about try and fail. That was funny.
 
 
 
-# Wednesday, September 2nd, 2020
+## Wednesday, September 2nd, 2020
 
 And again a new turn of databases :)<br>
 
@@ -137,5 +137,35 @@ a little too short. We wanted to model a hotel together with the trainer. Unfort
 My main work today was actually only to refine my homework project (library).<br>
 The software from "Creatly", with which you can design your models online, helped me a lot.
 
+## Addendum for September 3rd, 2020
+
+After a good theoretical input from our trainer, we started to "normalize" our school and library exercise today.
+
+This is done as follows:
+
+### NORMALIZATION
+
+No redundant data (saves storage space, avoids contradicting content)
+
+No more and no less than requested may be changed!
+No more and no less than requested may be inserted!
+No more and no less than requested may be deleted!
+
+### 1NF -> INDIVISIBILITY (atomization) -> Each field only one value (multiple values ​​are not allowed)
+
+### 2NF -> REDUNDANZ Distribution of primary keys (no key dependencies)
+            
+### 3NF -> HISTORY -> Split non-key attributes (Transitions)
+
+
+Based on this information, i tried to implement my concept of the school and the library. So far i've found it extremely difficult
+to display entities, relationships and the diagram correctly.
+
+We also tried to resolve N:M relationships into 1:N relationships. 
+
+Aaargh!
+
 P.S: I hope to get more insight into the and structure of DBMS soon.
+
+
 
