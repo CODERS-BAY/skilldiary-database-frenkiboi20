@@ -137,7 +137,7 @@ a little too short. We wanted to model a hotel together with the trainer. Unfort
 My main work today was actually only to refine my homework project (library).<br>
 The software from "Creatly", with which you can design your models online, helped me a lot.
 
-## Addendum for September 3rd, 2020
+## Addendum for Thursday, September 3rd, 2020
 
 After a good theoretical input from our trainer, we started to "normalize" our school and library exercise today.
 
@@ -168,4 +168,22 @@ Aaargh!
 P.S: I hope to get more insight into the and structure of DBMS soon.
 
 
+
+## Thursday, September 3rd, 2020
+
+Hangman completed!
+
+Motivation: 100%!
+
+Next problem: in sight!
+
+From emotional high into cold water! :)
+
+Today I should develop an algorithm to convert two strings to filter out the common substring.<br>
+Turned out to be pretty tricky.
+Currently sitting in front of it, I have a solution that calculates the length of the common substring.
+
+Then there is the console roulette etc ..
+
+I'm really looking forward to the next Java day!
 
