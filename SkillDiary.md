@@ -187,3 +187,14 @@ Then there is the console roulette etc ..
 
 I'm really looking forward to the next Java day!
 
+## Monday, September 7th, 2020
+
+Today in Java we looked at some popular search algorithms.
+We tried to analyze the individual steps of the algorithm on the flipchart.
+I had some problems with merge sort and insertion sort that we got as a homework exercise.
+Questions that came up at home unfortunately remained unanswered.<br>
+Personally, I can't do that much with self-learning, since I've been using self-learning for years anyway to
+taught myself some things. To some extent, this methodology is highly recommended, but straight
+when building algorithms it would be beneficial to get a little more input.
+I am very happy that I like Java, otherwise I would be left behind.
+
