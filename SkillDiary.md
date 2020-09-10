@@ -198,3 +198,10 @@ taught myself some things. To some extent, this methodology is highly recommende
 when building algorithms it would be beneficial to get a little more input.
 I am very happy that I like Java, otherwise I would be left behind.
 
+## Wednesday, September 9th, 2020
+
+Unfortunately I wasn't in the class yesterday - family problems!
+
+I couldn't be there when the trainer modeled a cinema. I wasn't present at the following hotel either. At the moment my knowledge of databases is great
+limited. It's a shame, because I'm really interested in the subject.
+I have to see if I can still follow the lessons.
