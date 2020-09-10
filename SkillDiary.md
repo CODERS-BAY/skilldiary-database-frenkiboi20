@@ -205,3 +205,13 @@ Unfortunately I wasn't in the class yesterday - family problems!
 I couldn't be there when the trainer modeled a cinema. I wasn't present at the following hotel either. At the moment my knowledge of databases is great
 limited. It's a shame, because I'm really interested in the subject.
 I have to see if I can still follow the lessons.
+
+## Thursday, September 10th, 2020
+
+The last homework in java was three of the well-known search algorithms.<br>
+Among other things, the bubble sort, insertion sort and merge sort had to be programmed.<br>
+Since I've used Bubblesort several times, this wasn't a big problem. I could still understand the insertion sort, but there is still the merge sort.
+Without Google I would not have made any progress. I just think it's a shame that we can't work on such complex things in groups.
+If it goes on like this, I'll be drowned in Java.<br>
+If I’m honest I would have believed we’re gaining solid knowledge. Whether it is databases, web applications or java.<br>
+But I'll fight my way either way.
