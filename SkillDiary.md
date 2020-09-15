@@ -215,3 +215,12 @@ Without Google I would not have made any progress. I just think it's a shame tha
 If it goes on like this, I'll be drowned in Java.<br>
 If I’m honest I would have believed we’re gaining solid knowledge. Whether it is databases, web applications or java.<br>
 But I'll fight my way either way.
+
+## Monday, September 14th, 2020
+
+Today it was really bad again.<br>
+My knowledge of HTML and CSS is constantly growing, but the complexity is also increasing
+too. Right now it would be great to have someone who shows us the tricks to get results quickly.
+I'm still miles away from responsiveness, form construction and structuring!<br>
+I also lack the talent to incorporate colors, images and other elements.
+The Austrian calls it: "Kraut und Ruabm".
