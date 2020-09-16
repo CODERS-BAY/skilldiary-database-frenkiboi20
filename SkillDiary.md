@@ -225,18 +225,18 @@ I'm still miles away from responsiveness, form construction and structuring!<br>
 I also lack the talent to incorporate colors, images and other elements.
 The Austrian calls it: "Kraut und Ruabm".
 
-### Wednesday, September 16th, 2020
+## Wednesday, September 16th, 2020
 
 ## Hierarchisches Datenbankmodell
 
-# Definition Datenbank:
+### Definition Datenbank:
 Datenbanken sind logisch strukturierte Systeme zur elektronischen Datenverwaltung, die mithilfe
 eines Datenbank-Management-Systems Zugehörigkeiten und Zugriffsrechte regeln und Informationen
 zur enthaltenen Datenbasis speichern. Die meisten Datenbanken lassen sich nur mit speziellen 
 Datenbankanwendungen öffnen, bearbeiten und auslesen.
 
 
-# Grundsätzliches zu Datenbanken:
+### Grundsätzliches zu Datenbanken:
 - Datenbank = Datenbasis = komplette Menge der Daten
 - Datenbankmanagementsystem = Verwaltet die Datenbank und bestimmt Struktur, Ordnung, 
   Zugriffsrechte, Abhängigkeiten, etc.
@@ -250,17 +250,17 @@ Datenbankanwendungen öffnen, bearbeiten und auslesen.
 - Datenbanksysteme unterscheiden sich konzeptionell voneinander und haben individuelle Stärken
   und Schwächen
 
-# Generelles:
+### Generelles:
 - Es gibt hierarchische, netzwerkartige, relationale, objektorientierte und dokumentorientierte
   Datenbanken
 
-# Das hierarchische Datenbankmodell
+### Das hierarchische Datenbankmodell
 - ist das älteste DBMS
 - bildet die reale Welt durch eine Baumstruktur ab
   d.h.: jeder Datensatz (record) hat genau 1 Vorgänger
         ausser das Wurzelelement (root)
 
-# Das funktioniert folgendermassen:
+### Das funktioniert folgendermassen:
 Man kann ein hierarchisches Datenbankmanagement ansatzweise mit einem Dateisystem vergleichen.
 Die Dateien wären die Blätter,
 Verzeichnisse entsprechen den Knoten mit Kindern.
@@ -275,7 +275,7 @@ realisiert. Man beginnt oben mit dem root-element und erweitert so nach und nach
 seine Verknüpfungen. Durch diese Vorgehensweise entsteht ein Gebilde das einem
 Baum ähnlich sieht
 
-# Nachteil:
+### Nachteil:
 - Hierarchische Datenbanken können nur mit einem solchen Baum umgehen. 
 - Verknüpfungen bzw. Beziehungen zwischen verschiedenen Bäumen oder über mehrere
   Ebenen sind nicht möglich.
@@ -284,21 +284,21 @@ Baum ähnlich sieht
 - unflexibel, weil man immer über Hierarchie auf den gewünschten Datensatz kommt
 - man muss die Zugriffspfade kennen
 
-# Vorteil:
+### Vorteil:
 - Einfach zu verstehen
 - Einfacher Zugriff auf zusammengehörige Daten
 - Kurze Zugriffszeit für festgelegte Suchpfade
 - Verarbeitung von Stücklisten möglich
 - eignet sich für XML-Daten
 
-# Minimalbedingungen:
+### Minimalbedingungen:
 - 1 Datensatz (record) muss das Wurzelelement (root) darstellen. Deswegen kann dieses
   Element kein Child (Kindelement) besitzen
 - Jeder andere Datensatz ist auch ein Child
 - Jeder Datensatz der nicht als Parent (Elternelement) auftritt, wird Blatt
   genannt
 
-# Fazit:
+### Fazit:
 Heutzutage ist das hierarchische Modell weitgehend von anderen Modellen abgelöst worden. Eine
 Renaissance erlebt die hierarchische Datenspeicherung mit XML
 XML = eine Metasprache auf deren Basis durch strukturelle und inhaltliche Einschränkungen
