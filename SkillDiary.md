@@ -303,3 +303,82 @@ Heutzutage ist das hierarchische Modell weitgehend von anderen Modellen abgelös
 Renaissance erlebt die hierarchische Datenspeicherung mit XML
 XML = eine Metasprache auf deren Basis durch strukturelle und inhaltliche Einschränkungen
       anwendungsspezifische Sprachen definiert werden
+
+<hr>
+
+## Hierarchical database model
+
+### Definition of database:
+Databases are logically structured systems for electronic data management that use
+a database management system to regulate affiliations and access rights and information
+save to the contained database. Most databases can only be opened with special
+Opening-, editing and reading- database applications.
+
+### Basics about databases:
+- Database = database = complete amount of data
+- Database management system = Manages the database and determines structure, order,
+  Access rights, dependencies, etc.
+  With a database language and a suitable database model, the architecture
+  of the database system
+- collect data and combine them into a logical unit
+- Individual data are provided with meta information that is necessary for processing
+- very practical to manage large amounts of data and to make it easier to query them
+- The presentation should also be mentioned, as the content is clear and needs-based
+  are displayed
+- Database systems differ conceptually from one another and have individual strengths
+  and weaknesses
+
+### General:
+- There are hierarchical, network-like, relational, object-oriented and document-oriented
+  Databases
+
+### The hierarchical database model
+- is the oldest DBMS
+- depicts the real world through a tree structure
+  i.e .: every data record (record) has exactly 1 predecessor
+        except for the root element
+
+### It works as follows:
+You can roughly compare hierarchical database management with a file system.
+The files would be the sheets
+Directories correspond to nodes with children.
+
+The data is stored in data sets that are linked to fields.
+The instances of a data record are summarized as a data record image.
+These images are similar to the tables from a relational
+Database.
+
+Dependencies between the data sets are identified in so-called parent-child relationships (PCR)
+realized. You start at the top with the root element and gradually expand
+its shortcuts. This approach creates a structure that becomes one
+Tree looks similar
+
+### Disadvantage:
+Hierarchical databases can only deal with such a tree.
+- Links or relationships between different trees or across several trees
+  Levels are not possible.
+- No N: M relationships can be represented (either only via redundancies
+  can be reached, or via virtual parent-child relationships (VPCR)
+- Inflexible, because you always get to the desired data record via hierarchy
+- you have to know the access paths
+
+### Advantage:
+- Easy to understand
+- Easy access to related data
+- Short access time for defined search paths
+- Processing of parts lists possible
+- is suitable for XML data
+
+### Minimum conditions:
+- 1 data record (record) must represent the root element (root). Therefore this can
+  Element do not have a child
+- Every other data set is also a child
+- Every data record that does not appear as a parent (parent element) becomes a leaf
+  called
+
+### Conclusion:
+Nowadays the hierarchical model has largely been replaced by other models. A
+The hierarchical data storage with XML is experiencing a renaissance
+XML = a metalanguage based on it through structural and content restrictions
+      application-specific languages ​​can be defined
+
