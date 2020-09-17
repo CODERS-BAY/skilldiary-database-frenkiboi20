@@ -317,12 +317,12 @@ Opening-, editing and reading- database applications.
 ### Basics about databases:
 - Database = database = complete amount of data
 - Database management system = Manages the database and determines structure, order,
-  Access rights, dependencies, etc.
+  Access rights, dependencies, etc.<br>
   With a database language and a suitable database model, the architecture
   of the database system
-- collect data and combine them into a logical unit
+- Collect data and combine them into a logical unit
 - Individual data are provided with meta information that is necessary for processing
-- very practical to manage large amounts of data and to make it easier to query them
+- Very practical to manage large amounts of data and to make it easier to query them
 - The presentation should also be mentioned, as the content is clear and needs-based
   are displayed
 - Database systems differ conceptually from one another and have individual strengths
@@ -381,4 +381,15 @@ Nowadays the hierarchical model has largely been replaced by other models. A
 The hierarchical data storage with XML is experiencing a renaissance
 XML = a metalanguage based on it through structural and content restrictions
       application-specific languages ​​can be defined
+
+## 17th September, 2020
+
+Yeah Today I revised a very dirty code (bingo exercise).
+My trainer found it extremely entertaining to show my mega-redundant code publicly.
+I took it with humor.
+
+Also, I finally finished the Divide and Conquer example.
+After 2 endless hours of debugging, I found the bug. I iterated over the whole array instead of over the sub-arrays.
+
+All in all it was a successful Java day!
 
